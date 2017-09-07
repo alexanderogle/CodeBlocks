@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1504787796 source:c:\users\175136\desktop\codeblocks\xanderbank\account.cpp
+	<iostream>
+	"Account.h"
+
+1504787388 c:\users\175136\desktop\codeblocks\xanderbank\account.h
+	<string>
+
+1504783139 source:c:\users\175136\desktop\codeblocks\xanderbank\main.cpp
+	<iostream>
+	"myClass.h"
+	"Account.h"
+	"Person.h"
+	<string>
+
+1503638000 c:\users\175136\desktop\codeblocks\xanderbank\myclass.h
+
+1503638306 source:c:\users\175136\desktop\codeblocks\xanderbank\myclass.cpp
+	<iostream>
+	"myClass.h"
+
+1503641941 source:c:\users\175136\desktop\codeblocks\xanderbank\person.cpp
+	"Person.h"
+	<string>
+
+1503641946 c:\users\175136\desktop\codeblocks\xanderbank\person.h
+	<string>
+

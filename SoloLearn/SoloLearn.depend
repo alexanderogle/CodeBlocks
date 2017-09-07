@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1503579623 source:c:\users\175136\desktop\codeblocks\sololearn\main.cpp
+	<iostream>
+
+1503572055 source:c:\users\175136\desktop\codeblocks\sololearn\myclass.cpp
+	"MyClass.h"
+
+1503572055 c:\users\175136\desktop\codeblocks\sololearn\myclass.h
+

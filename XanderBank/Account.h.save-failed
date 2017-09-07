@@ -1,0 +1,23 @@
+#ifndef ACCOUNT_H
+#define ACCOUNT_H
+
+
+class Account
+{
+    public:
+        Account(){
+            withdraw();
+            deposit();
+        };
+        virtual ~Account();
+
+    protected:
+
+    private:
+        accountHolder;
+        startingBalance;
+        balance;
+        accountType;
+};
+
+#endif // ACCOUNT_H

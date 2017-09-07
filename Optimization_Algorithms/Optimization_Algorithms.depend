@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504337255 source:c:\users\175136\desktop\codeblocks\optimization_algorithms\main.cpp
+	<iostream>
+	<math.h>
+

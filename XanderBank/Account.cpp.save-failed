@@ -1,0 +1,19 @@
+#include "Account.h"
+using namespace std;
+
+Account::Account(accountHolder, startingBalance, accountType)
+{
+    //ctor
+    this.accountHolder = accountHolder;
+    this.startingBalance = startingBalance;
+    this.accountType = accountType;
+}
+
+Account::withdraw(int amount, string authorization){
+    return this.balance();
+}
+
+Account::~Account()
+{
+    //dtor
+}
