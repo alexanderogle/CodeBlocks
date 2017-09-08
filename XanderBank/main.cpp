@@ -1,4 +1,10 @@
+// Library for dealing with inputs and outputs to the console
 #include <iostream>
+// Library for handling timing events
+#include <chrono>
+#include <thread>
+#include <windows.h>
+// User defined libraries
 #include "myClass.h"
 #include "Account.h"
 #include "Person.h"
@@ -18,6 +24,7 @@ int main()
     Account alex(0, "Alex");
     Account lewis(0,"Lewis");
     Account sasha(0, "Sasha");
+    Sleep(1000);
 
     // Now that the accounts are setup, we make the initial deposit, which divides the
     // original amount of 1545 by 6 rooms

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1504868086 source:c:\users\175136\desktop\codeblocks\hyperloop\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	"animation1.h"
+	"thisClass.h"
+
+1504868206 source:c:\users\175136\desktop\codeblocks\hyperloop\animation1.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	"animation1.h"
+
+1504867850 c:\users\175136\desktop\codeblocks\hyperloop\animation1.h
+	<string>
+
+1504864442 source:c:\users\175136\desktop\codeblocks\hyperloop\thisclass.cpp
+	"thisClass.h"
+
+1504864444 c:\users\175136\desktop\codeblocks\hyperloop\thisclass.h
+
